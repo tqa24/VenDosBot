@@ -1,25 +1,51 @@
-# DDOS Bot for Discord <img src="https://github.com/user-attachments/assets/a70fd13c-a726-4dff-ac0e-0e02e4cadf94" width="55" />
+# 🛡️ VenDDoS | Advanced Discord D-Dos Bot
 
-- Layer 4 ⚡
-- Layer 7 ⚡
 
-- You can add more methods and tools, or delete as needed. 🛠️
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a70fd13c-a726-4dff-ac0e-0e02e4cadf94" width="120">
+</p>
 
-<img src="https://github.com/user-attachments/assets/85cdb061-f0f7-4e48-a71e-b070bd8f19b5" width="400" />
-<img src="https://github.com/user-attachments/assets/3f1c9291-a2f6-42ff-9ae6-d29da2b0c8ae" width="468" />
+<p align="center">
+  <strong>⚠️ EDUCATIONAL & RESEARCH PURPOSE ONLY ⚠️</strong><br>
+  <em>Authorized penetration testing & server resilience analysis</em>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0.0-red.svg">
+  <img src="https://img.shields.io/badge/Layer-4%20%26%207-blue.svg">
+  <img src="https://img.shields.io/badge/Protocol-TCP%2FUDP%2FHTTP-orange.svg">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg">
+</p>
 
 # Credits
-- [**Haven / Hydrax**](https://www.facebook.com/xvennnnnn) 🙌
 
-<a href="https://github.com/Ven-Core"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p><p align="left">
-<a href="https://www.facebook.com/xvennnnnn/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p><p align="left">
+<p align="center">
+  <strong>Developed & Maintained by — Ven-Core</strong>
+</p>
 
-# P.S.
-- I do not accept any responsibility for your use of the source code for any purpose.  
-  Remember: Purpose born to study. 📚
+<p align="center">
+  <a href="https://github.com/Ven-Core">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge">
+  </a>
+  <a href="https://www.facebook.com/vnzxyq/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge">
+  </a>
+</p>
 
-# NOTE
-- LATEST RELEASE AND WITHOUT ANY ERROR ✅
+# Disclaimer
+I do not accept any responsibility for your use of this source code for any purpose.
+This tool is intended for authorized security testing and educational research only.
+Unauthorized use against systems you do not own or have explicit permission to test is illegal and violates computer fraud laws in most jurisdictions.
+
+<p align="center">
+  <span style="background-color: #ff0000; color: #ffffff; padding: 8px 16px; border-radius: 8px; display: inline-block;">
+    ⚠️ Remember: Purpose born to study. 📚
+  </span>
+</p>
+
+# 📦 Installation
+You can run this anywhere but you need to use Node.js to run the bot then i bot will do the rest all you need is the command from discord to run thos files in the Git.
+
+# ✅ Release Status
+LATEST RELEASE — NO ERRORS ✅
+Fully functional and stable. All modules tested and verified
